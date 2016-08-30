@@ -1,0 +1,20 @@
+table.list {
+	border: 1px solid #000000;
+	border-collapse: collapse;
+	width: 100%;
+ 	font-size:11px; 
+	font-family: Verdana;
+}
+
+table.list td {
+	padding: 3px;
+}
+
+table.list th {
+	background: #C0C0C0;
+	color: #000000;
+	padding: 3px;
+	border-bottom: 1px solid #000000;
+	text-align: left;
+}
+
